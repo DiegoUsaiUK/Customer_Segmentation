@@ -8,7 +8,7 @@ With little effort we will leaarn that _some of our customers favour certain var
 
 Although it’s not going to give you all the answers, clustering is a powerful exploratory exercise that can help you reveal patterns in your consumer base, especially when you have a brand new market to explore and do not have any prior knowledge of it. It’s very easy to implement and you can unearth interesting patterns of behaviour in your customer base.
 
-Links
+## Links
 
 You can find the final article on [__my website__](https://diegousai.io/2019/05/a-gentle-introduction-to-customer-segmentation/)
 
